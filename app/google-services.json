@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "950843040112",
+    "firebase_url": "https://myofficeapp-7b69c.firebaseio.com",
+    "project_id": "myofficeapp-7b69c",
+    "storage_bucket": "myofficeapp-7b69c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950843040112:android:237db9ef9f02c391",
+        "android_client_info": {
+          "package_name": "com.aniket.myofficeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "950843040112-qanrkoobnksop3mo6srn0qkblcqhqufb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aniket.myofficeapp",
+            "certificate_hash": "a0816a8316ef856f004c73eda99c4cf584e90bdd"
+          }
+        },
+        {
+          "client_id": "950843040112-oucq362jl53nc9nabdej7dmo2kkq907k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAITN4Jf_A28dVmEurIM2sYtaQ3k1d1KS8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "950843040112-oucq362jl53nc9nabdej7dmo2kkq907k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
